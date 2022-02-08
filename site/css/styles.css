@@ -1,0 +1,41 @@
+body {
+	background-color: #5B9BCC;
+}
+
+#logo{
+	width: 50px;
+	height: 50px;
+}
+
+#pageTitle{
+	font-size: 50px;
+	font-family: monospace;
+}
+
+.mainCircle{
+    background-color: #1B41BE;
+    width: 20vw;
+    height: 20vw; 
+    text-align: center;
+    border: 3px solid #0B108F;
+}
+
+.banner{
+	position: relative;
+	top: 0;
+	background-color: #FFFFFF;
+	width: 50vw;
+	height: 50px;
+	text-align: center;
+	margin-left: 25vw;
+}
+
+.circleName{
+	font-size: 3vw;
+	color: #FFFFFF;
+	font-family: sans-serif;
+	position: relative;
+	top:50%;
+	margin-top: -3vw;
+}
+
